@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "pan",
+	"no_antialiasing": false,
+	"image": "characters/panito",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "pan-awesome",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		102,
+		0
+	],
+	"camera_position": [
+		150,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

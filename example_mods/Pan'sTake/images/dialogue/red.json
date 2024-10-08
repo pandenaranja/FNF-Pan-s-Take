@@ -1,0 +1,141 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-62,
+				56
+			],
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"loop_name": "RedNormal",
+			"idle_name": "RedNormal"
+		},
+		{
+			"idle_offsets": [
+				-53,
+				59
+			],
+			"anim": "mic",
+			"loop_offsets": [
+				133,
+				144
+			],
+			"idle_name": "Ouch",
+			"loop_name": "RedMic"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				40
+			],
+			"anim": "a",
+			"idle_offsets": [
+				-60,
+				40
+			],
+			"loop_name": "RedA",
+			"idle_name": "RedA"
+		},
+		{
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"anim": "confused1",
+			"loop_offsets": [
+				-62,
+				56
+			],
+			"idle_name": "RedConfused",
+			"loop_name": "RedConfused"
+		},
+		{
+			"loop_offsets": [
+				-70,
+				50
+			],
+			"anim": "confused2",
+			"idle_offsets": [
+				-70,
+				50
+			],
+			"loop_name": "RedEvenMoreConfused",
+			"idle_name": "RedEvenMoreConfused"
+		},
+		{
+			"loop_offsets": [
+				-62,
+				58
+			],
+			"anim": "uh",
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"loop_name": "RedUhhh",
+			"idle_name": "RedUhhh"
+		},
+		{
+			"loop_offsets": [
+				-61,
+				58
+			],
+			"anim": "calmed",
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"loop_name": "RedCalmed",
+			"idle_name": "RedCalmed"
+		},
+		{
+			"loop_offsets": [
+				-61,
+				58
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"loop_name": "RedHappy",
+			"idle_name": "RedHappy"
+		},
+		{
+			"loop_offsets": [
+				-61,
+				58
+			],
+			"anim": "confident",
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"loop_name": "RedConfident",
+			"idle_name": "RedStatical"
+		},
+		{
+			"loop_name": "RedScared",
+			"idle_offsets": [
+				-61,
+				58
+			],
+			"idle_name": "RedScared",
+			"anim": "scared",
+			"loop_offsets": [
+				-61,
+				58
+			]
+		}
+	],
+	"image": "Red"
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "Freeplay",
+	"difficulties": "Canon",
+	"hideFreeplay": false,
+	"weekBackground": "extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week13",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"pan",
+			"free-pan",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sketch king",
+			"free-other",
+			[
+				255,
+				255,
+				255
+			]
+		],
+	],
+	"hideStoryMode": true,
+	"weekName": "Freeplay",
+	"hiddenUntilUnlocked": false
+}

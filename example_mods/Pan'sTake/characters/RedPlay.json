@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				164,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				167,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				198,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-26
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				-22
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				-21
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissRight",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/HapiRed",
+	"position": [
+		100,
+		50
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		220,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

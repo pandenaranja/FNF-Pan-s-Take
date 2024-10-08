@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lol.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="100" y="100" width="278" height="577" frameX="0" frameY="-1" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0001" x="100" y="100" width="278" height="577" frameX="0" frameY="-1" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0002" x="450" y="100" width="277" height="577" frameX="0" frameY="-1" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0003" x="450" y="100" width="277" height="577" frameX="0" frameY="-1" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0004" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0005" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0006" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0007" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0008" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0009" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0010" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0011" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+	<SubTexture name="Idle0012" x="799" y="100" width="274" height="578" frameX="-2" frameY="0" frameWidth="278" frameHeight="578"/>
+</TextureAtlas>

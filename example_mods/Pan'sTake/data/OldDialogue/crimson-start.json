@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused1",
+			"text": "Huh?",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "confused1",
+			"text": "Oh... Uhhhh...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "confused1",
+			"text": "What, do you... want me to move or...?",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bob skee pa!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "a",
+			"text": ". . . . .",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.5,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "a",
+			"text": "Uhhhh... I-",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "mic",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "BOOM"
+		},
+		{
+			"expression": "uh",
+			"text": "ouch",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.09,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "a-",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "confused2",
+			"text": "Uhhhh...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "pissed",
+			"text": "BEEP PA SKA DOP!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bfa"
+		},
+		{
+			"expression": "a",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "confused2",
+			"text": "I'm gonna assume you want to sing with me...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "uh",
+			"text": "Well... I... don't know how to sing...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "confused1",
+			"text": "It's easy, right?",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"expression": "confused2",
+			"text": "Okay...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.1,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "I can give it a try!",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		},
+		{
+			"expression": "uh",
+			"text": "But don't expect me to do well...",
+			"boxState": "normal",
+			"portrait": "red",
+			"speed": 0.05,
+			"sound": "RedTalk"
+		}
+	]
+}

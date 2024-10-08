@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				65
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-167
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "End",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				115,
+				-249
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Loop",
+			"indices": []
+		}
+	],
+	"vocals_file": "panduo",
+	"no_antialiasing": false,
+	"image": "characters/PanLoreDead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pan-confused-alt",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		160,
+		0
+	],
+	"camera_position": [
+		-360,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

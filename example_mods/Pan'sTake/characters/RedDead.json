@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				111,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Dead"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				34,
+				36
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				143
+			],
+			"indices": [],
+			"fps": 26,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Recover"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RedDead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fabianus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

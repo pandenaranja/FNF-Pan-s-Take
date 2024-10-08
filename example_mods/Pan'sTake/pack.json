@@ -1,0 +1,9 @@
+{
+	"name": "PAN'S TAKE V1",
+	"description": "A mod in development for 3 years, now in its absolutely glory... not. Includes 3 weeks and some extra songs.",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [255, 101, 0],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

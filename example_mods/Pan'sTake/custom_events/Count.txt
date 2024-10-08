@@ -1,0 +1,5 @@
+Plays a countdown
+
+Value 1: Can be either "all" (for full), "getReady",
+          "Get Ready", "set", "go", "go!", "4", "3",
+           "2", or "1". 

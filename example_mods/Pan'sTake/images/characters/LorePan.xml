@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LorePan.png">
+<SubTexture name="LorePan Idle0000" x="862" y="0" width="507" height="950" frameX="0" frameY="0" frameWidth="507" frameHeight="950" />
+<SubTexture name="LorePan Down0000" x="679" y="981" width="724" height="907" frameX="0" frameY="0" frameWidth="724" frameHeight="907" />
+<SubTexture name="LorePan Left0000" x="1369" y="0" width="768" height="944" frameX="0" frameY="0" frameWidth="768" frameHeight="944" />
+<SubTexture name="LorePan Up0000" x="0" y="0" width="862" height="981" frameX="0" frameY="0" frameWidth="862" frameHeight="981" />
+<SubTexture name="LorePan Right0000" x="0" y="981" width="679" height="925" frameX="0" frameY="0" frameWidth="679" frameHeight="925" />
+</TextureAtlas>

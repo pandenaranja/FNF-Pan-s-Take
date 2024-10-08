@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ClassicRed.png">
+<SubTexture name="ClassicRed Idle0000" x="0" y="0" width="431" height="777" frameX="-168" frameY="-9" frameWidth="700" frameHeight="800" />
+<SubTexture name="ClassicRed Idle0001" x="0" y="0" width="431" height="777" frameX="-168" frameY="-9" frameWidth="700" frameHeight="800" />
+<SubTexture name="ClassicRed Idle0002" x="431" y="0" width="434" height="775" frameX="-169" frameY="-11" frameWidth="700" frameHeight="800" />
+<SubTexture name="ClassicRed Idle0003" x="431" y="0" width="434" height="775" frameX="-169" frameY="-11" frameWidth="700" frameHeight="800" />
+</TextureAtlas>

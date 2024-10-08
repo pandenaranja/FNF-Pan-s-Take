@@ -1,0 +1,50 @@
+{
+	"storyName": "Red!",
+	"difficulties": "red",
+	"hideFreeplay": false,
+	"weekBackground": "red",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Crimson Start",
+			"free-red",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Charge",
+			"free-red",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"RedFrenzy",
+			"free-red",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Red's Week",
+	"hiddenUntilUnlocked": false
+}

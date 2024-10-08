@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": ". . ."
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "Huh..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee skib pa!"
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You seem to like singing a lot."
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What, do you do it often?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skee bab"
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.5,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "a",
+			"text": ". . . . ."
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "Right so... I think I'm gonna leave now-"
+		},
+		{
+			"sound": "bfa",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "BAP! BAP! BAP! BAP!"
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "Geez, don't scream like that."
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "...I guess you want me to sing again, right?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep!"
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...One more then!"
+		},
+		{
+			"sound": "RedTalk",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "Hope I do well on this one..."
+		}
+	]
+}

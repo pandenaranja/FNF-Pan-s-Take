@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "...Huh..."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You are really skilled!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop pa!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.095,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "...Right..."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "calmed",
+			"text": "Anyways, maybe it's time to me to go-"
+		},
+		{
+			"sound": "bfa",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BAP! BAP BIP POP BE!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "Huh?!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": ". . ."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "I'm gonna assume you want another song."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...I'll do!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "(This guy is getting annoying...)"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="panbit.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down10000" x="68" y="112" width="67" height="88" frameX="-17" frameY="-31" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Down20000" x="68" y="112" width="67" height="88" frameX="-17" frameY="-31" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Down30000" x="108" y="225" width="64" height="91" frameX="-20" frameY="-28" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Down40000" x="108" y="225" width="64" height="91" frameX="-20" frameY="-28" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Idle10000" x="333" y="0" width="58" height="114" frameX="-28" frameY="-7" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Idle20000" x="333" y="0" width="58" height="114" frameX="-28" frameY="-7" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Idle30000" x="219" y="0" width="58" height="116" frameX="-28" frameY="-5" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Idle40000" x="219" y="0" width="58" height="116" frameX="-28" frameY="-5" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Idle50000" x="54" y="225" width="54" height="119" frameX="-33" frameY="-2" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Idle60000" x="54" y="225" width="54" height="119" frameX="-33" frameY="-2" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Left10000" x="0" y="0" width="74" height="112" frameX="0" frameY="-10" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Left20000" x="0" y="0" width="74" height="112" frameX="0" frameY="-10" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Left30000" x="0" y="112" width="68" height="113" frameX="-5" frameY="-9" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Left40000" x="0" y="112" width="68" height="113" frameX="-5" frameY="-9" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Right10000" x="74" y="0" width="74" height="107" frameX="-31" frameY="-13" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Right20000" x="74" y="0" width="74" height="107" frameX="-31" frameY="-13" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Right30000" x="148" y="0" width="71" height="110" frameX="-30" frameY="-10" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Right40000" x="148" y="0" width="71" height="110" frameX="-30" frameY="-10" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Up10000" x="277" y="0" width="56" height="120" frameX="-29" frameY="-1" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Up20000" x="277" y="0" width="56" height="120" frameX="-29" frameY="-1" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Up30000" x="0" y="225" width="54" height="121" frameX="-30" frameY="0" frameWidth="128" frameHeight="128"/>
+	<SubTexture name="Up40000" x="0" y="225" width="54" height="121" frameX="-30" frameY="0" frameWidth="128" frameHeight="128"/>
+</TextureAtlas>

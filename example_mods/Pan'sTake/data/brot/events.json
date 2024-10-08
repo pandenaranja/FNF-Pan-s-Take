@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				61440,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Play Animation",
+						"bruh",
+						"Dad"
+					]
+				]
+			],
+			[
+				120960,
+				[
+					[
+						"Play Animation",
+						"huh",
+						"Dad"
+					]
+				]
+			],
+			[
+				122880,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		]
+	}
+}

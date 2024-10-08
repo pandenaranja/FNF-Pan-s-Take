@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "TB",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "It seems you reached the end.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "It doesn't matters.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "It never did.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "This isn't over.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "I still have another creation to hold you back.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "But you aren't ready for him.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "In the meantime...",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "Have fun with some leftovers I left for you.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "And when the moment eventually comes...",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm gonna be waiting for you :)",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "See you later, old friend.",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "And remember...",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.05,
+			"portrait": "tb"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm always watching :)",
+			"boxState": "normal",
+			"sound": "tb",
+			"speed": 0.1,
+			"portrait": "tb"
+		}
+	]
+}

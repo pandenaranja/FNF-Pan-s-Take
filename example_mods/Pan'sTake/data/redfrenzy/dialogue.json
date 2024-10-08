@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "redbf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Beep pa?!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.035,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "Well you are making me get distressed with all this singing mate."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Although it's fun, not gonna lie."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "Admire, the Red Power!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "Or, fittinly..."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Red Frenzy!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You think everything just got red, right?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "redbf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bap?"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "Well now I can gain health as well!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "redbf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Skee bap beee..."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "Well have you seen my clothes?"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "Of course I'm unoriginal."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "redbf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "Why are you complaining? Just start the song!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Unless you want to lose against a newbie!"
+		},
+		{
+			"sound": "bfa",
+			"speed": 0.05,
+			"portrait": "redbf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "Beep pa!"
+		}
+	]
+}

@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep ski pa!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.06,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "Uhhhh... Hi?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.06,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "a",
+			"text": ". . . (Huh?)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee skep pa bip ba!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": ". . . (Is he swearing at me?...)"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "(No... is he talking to ME?)"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "What, I'm in your way?"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "I-I'm sorry if that's the case, let me just mo-"
+		},
+		{
+			"sound": "bfa",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BEEP PA BOP SKAA!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "a",
+			"text": "H-Huh?"
+		},
+		{
+			"sound": "red",
+			"speed": 0.1,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": ". . ."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "What, you want to... sing or something like that?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": ". . . (Odd)"
+		},
+		{
+			"sound": "red",
+			"speed": 0.035,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused2",
+			"text": "(Guess it explains why he keeps trying to give me that mic...)"
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay okay... I'll sing then."
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "But don't expect me to do well... "
+		},
+		{
+			"sound": "red",
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "confused1",
+			"text": "It's been a while since I have tried to sing..."
+		}
+	]
+}
